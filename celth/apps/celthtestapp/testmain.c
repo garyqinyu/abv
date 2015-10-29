@@ -488,7 +488,7 @@ CELTH_CreateEvent(&Event);
 	CelthApi_Demux_SectionInitialize();
 /*	printf("get a section handle\n");*/
 
-#if 0
+#if 1
 
 	CelthApi_Demux_AllocateSectionFilter(NULL,&hSectionHandle);
 
